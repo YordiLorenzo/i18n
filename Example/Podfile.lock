@@ -1,0 +1,16 @@
+PODS:
+  - i18n (0.1.0)
+
+DEPENDENCIES:
+  - i18n (from `../`)
+
+EXTERNAL SOURCES:
+  i18n:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  i18n: 9aca9f506ea0af86042e9ca3adbfefd061bcf410
+
+PODFILE CHECKSUM: 766551a2a9c02cbdcb6875bbbaabdb736ec6718f
+
+COCOAPODS: 1.5.2

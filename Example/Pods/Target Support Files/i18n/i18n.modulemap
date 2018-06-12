@@ -1,0 +1,6 @@
+framework module i18n {
+  umbrella header "i18n-umbrella.h"
+
+  export *
+  module * { export * }
+}
